@@ -13,6 +13,7 @@
 		853F93851F00E9F800711BD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 853F93841F00E9F800711BD0 /* Assets.xcassets */; };
 		853F93881F00E9F800711BD0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 853F93861F00E9F800711BD0 /* LaunchScreen.storyboard */; };
 		853F93931F00E9F800711BD0 /* KennyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 853F93921F00E9F800711BD0 /* KennyTests.swift */; };
+		853F939E1F00EC3E00711BD0 /* kenny.png in Resources */ = {isa = PBXBuildFile; fileRef = 853F939D1F00EC3E00711BD0 /* kenny.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		853F938E1F00E9F800711BD0 /* KennyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KennyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		853F93921F00E9F800711BD0 /* KennyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KennyTests.swift; sourceTree = "<group>"; };
 		853F93941F00E9F800711BD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		853F939D1F00EC3E00711BD0 /* kenny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kenny.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		853F937C1F00E9F800711BD0 /* Kenny */ = {
 			isa = PBXGroup;
 			children = (
+				853F939D1F00EC3E00711BD0 /* kenny.png */,
 				853F937D1F00E9F800711BD0 /* AppDelegate.swift */,
 				853F937F1F00E9F800711BD0 /* ViewController.swift */,
 				853F93811F00E9F800711BD0 /* Main.storyboard */,
@@ -180,6 +183,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				853F93881F00E9F800711BD0 /* LaunchScreen.storyboard in Resources */,
+				853F939E1F00EC3E00711BD0 /* kenny.png in Resources */,
 				853F93851F00E9F800711BD0 /* Assets.xcassets in Resources */,
 				853F93831F00E9F800711BD0 /* Main.storyboard in Resources */,
 			);
